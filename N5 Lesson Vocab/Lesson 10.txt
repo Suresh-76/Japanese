@@ -1,0 +1,46 @@
+exist (living)	います
+exist (non living)	あいます
+various	いろいろ
+man	おとこのひと
+woman	おんなのひと
+boy	おとこのこ
+girl	おんなのこ
+dog	いぬ
+cat	ねこ
+tree	き
+thing	もの
+film	フィルム
+battery	でんち
+box	はこ
+switch	スイッチ
+refrigerator	れいぞうこ
+table	テーブル
+bed	ベッド
+shelf	たな
+door	ドア
+window	まど
+mailbox, postbox	ポスト
+building	ビル
+park	こうえん
+coffee shop	きっさてん
+bookstore	ほんや
+~ store	～や
+a fixed place to catch taxis, train, etc..	のりば
+prefecture	けん
+on, above, over	うえ
+under, below, beneath	した
+front, before	まえ
+back, behind	うしろ
+right side	みぎ
+left side	ひだり
+in, inside	なか
+outside	そと
+next, next door	となり
+near, vicinity	ちかく
+between, among	あいだ
+and so on	～や　～　など
+the most ~	いちばん
+the -th self	～　だんめ
+chili sauce	チリソース
+the back	おく
+spice corner	スパイス。コーナー

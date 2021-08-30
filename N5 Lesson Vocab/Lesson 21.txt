@@ -1,0 +1,36 @@
+think	おもいます
+say(report)	いいます
+be enough	たります
+win	かちます
+lose	まけます
+be held,take place	あります
+be useful	やくに　たちます
+wasteful	むだ
+inconvenient	ふべん
+the same	おなじ
+awful,great	すごい
+prime minister	しゅしょう
+president	だうとうりょう
+politics	せいじ
+news	ニュース
+speech	スピーチ
+game	しあい
+side job	アルバイト
+opinion	いけん
+talk,speech	はなし
+humor	ユーモア
+waste	むだ
+design	デザイン
+transportation	こうつう
+rush hour	ラッシュ
+recently	さいきん
+probably	たぶん
+surely	きっと
+really	ほんとうに
+not so much	そんなに
+about	に　ついて
+there is no other choice	しかたが　ありません
+it's been a long time	しばらくですね
+how about drinking	でも　のみませんか
+i've got to watch it	みないと
+of course	もちろん

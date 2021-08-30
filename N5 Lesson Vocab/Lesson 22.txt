@@ -1,0 +1,20 @@
+put on(top-bottom)	きます
+put on(bottom-top)	はきます
+put on(head wear)	かぶります
+put on(accessories)	かけます
+be born	うまれます
+coat	コート
+suit	スーツ
+sweater	セーター
+hat,cap	ぼうし
+glasses	めがね
+often	よく
+congratulations	おめでとう　ございます
+this(polite)	こちら
+house rent	やちん
+let me see	うーん
+kitchen with dining	ダイニングキチン
+japanese style room	わしつ
+japanese style closet	おしいろ
+japanese style mattress	ふとん
+apartment	アパート

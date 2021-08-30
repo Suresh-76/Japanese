@@ -1,0 +1,46 @@
+あきます	open(door)
+しまります	close(door)
+つきます	come on(light)
+きえます	go off(light)
+こみます	get crowded(road)
+すきます	get empty(road)
+こわれます	break(chair)
+われます	break(glass)
+おれます	break(tree)
+やぶれます	tear(paper)
+よごれます	get dirty(cloath)
+つきます	be attached(pocket)
+はずれます	be undone(button)
+とまります	stop(elevator)
+まちがえます	make a mistake
+おとします	drop,lose
+かかります	be locked
+おさら	plate,dish
+おちゃわん	rice bowl
+コップ	glass(vassel)
+ガラス	glass(material)
+ふくろ	bag
+さいふ	wallet
+えだ	branch
+えきいん	station employee
+このへん	this neighborhood
+～へん	this place around
+このくらい	about this size
+おさきに　しつれいします	Im leaving ahead sorry
+おさきに　どうぞ	go ahead
+よかった	thank goodness
+いまの　でんしゃ	the train which left
+わすれもの	this left behind
+～がわ	~side
+おぼえて　いません	I dont remember
+あみだな	rack
+たしか	i suppose
+よつや	name of the station in Tokyo
+じしん	earthquake
+はり	hands(clock)
+さします	point
+えきまえ	the area in front of station
+たおれます	colapse(building)
+にし	west
+ほう	direction
+かんのみや	name of the place in kobe

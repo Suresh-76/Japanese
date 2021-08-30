@@ -1,0 +1,44 @@
+はじまります	begin,start
+つじけます	continue
+みつけます	find
+うけます	take(exam)
+にゅうがくします	enter(university)
+そつぎょうします	graduate(university)
+しゅっせきします	attend(meeting)
+きゅうけいします	take a break
+れんきゅう	consecutive holiday
+さくぶん	essay
+てんらんかい	exhibition
+けっこんしき	wedding ceremony
+おそうしき	funeral
+しき	ceremony
+ほんしゃ	head office
+してん	branch office
+きょうかい	church
+だいがくいん	graduate school
+どうぶつえん	zoo
+おんせん	hot spring
+おきゃくさん	guest,visitor
+だれか	somebody
+の　ほう	direction
+ずっと	all the time
+ピカソ	picaso
+うえのこうえん	ueno park
+のこります	left alone
+つきに	monthly
+ふつうの	ordinary
+インターネット	internet
+むら	village
+えいがかん	movie theater
+いや	hateful,disagreeble
+そら	sky
+とじます	close
+とかい	city
+こどもたち	children
+じゆうに	freely
+せかいじゅう	all over the world
+あつまります	gather
+うつくしい	beautiful
+しぜん	nature
+すばらしさ	goodness
+きが　つきます	notice,become aware of

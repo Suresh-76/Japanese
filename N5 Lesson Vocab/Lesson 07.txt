@@ -1,0 +1,46 @@
+Cut	きります
+Send	おくります
+Give	あげます
+Receive	もらいます
+Lend	かします
+Borrow	かります
+Teach	おしえます
+Make	かけます
+Make a telephone call	でんわをかけます
+Hand	て
+Chopsticks	はし
+spoon	スプーン
+knife	ナイフ
+fork	ヒョクス
+Scissors	はさみ
+fax	ファクス
+word processor	ワープロ
+personal computer	パサゴン
+punch	パンチ
+stapler	ホッチキス
+scotch tape	セロテープ
+eraser	けしゴム
+paper	かみ
+flower	はな
+shirt	シヤツ
+present	プレセント
+baggage	にもつ
+money	お金
+ticket	きっぷ
+christmas	クリスマス
+my father	ちち
+my mother	はは
+father	おとうさん
+mother	おかあさん
+already	もう
+not yet	まだ
+from now on	これから
+what a nice	すてきですね
+may i come in	ごめんください
+welcome	いらっしゃい
+do come in	どうぞおあがりください。
+may i ( I'm afraid i'll be disturbing you)	しつらいします
+won't you have	いかがですか
+said before starting to eat or drinking	いただきます
+trip	りょこう
+souvenir	おみやげ

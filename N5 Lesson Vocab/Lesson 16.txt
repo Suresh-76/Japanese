@@ -1,0 +1,46 @@
+ride, get on	のります
+get off	おります
+change	のりかえます
+take	おびます
+put in, insert	いれます
+take out, withdraw	だします
+enter	はいります
+graduate from	でます
+quit or retire from,stop,give up	やめます
+push,press	おします
+young	わかい
+long	ながい
+short	みじかい
+bright,light	あかるい
+dark	くらい
+tall　(person)	せが　たかい
+clever, smart	あたまが　いい
+body	からだ
+head	あたま
+hair	かみ
+face	かお
+eye	め
+ear	みみ
+mouth	くち
+tooth	は
+stomach	おなか
+leg,foot	あし
+service	サービス
+jogging	ジョギング
+shower	シャワー
+green, greenary	みどり
+Buddhist temple	おてら
+Shinto shrine	じんじゃ
+foreign student	りゅうがくせい
+number-	ーばん
+in what way, how	どうやって
+which~	どの
+I still have a long way to go.	いいえ　まだまだです
+Are you making a withdrawal?	おひきだしですか
+first of all	まず
+cash dispensing card	キャッシュカード
+personal identification number, PIN	あんしょうばんごう
+next, as a next step	つぎに
+amount of money	きんがく
+confirmation	かくにん
+button	ボタン

@@ -1,0 +1,41 @@
+go	いきます
+come	きます
+go home	かえります
+school	がっこう
+supermaket	スーパー
+station	えき
+airplan	ひこうき
+ship	ふね
+electric train	でんしゃ
+subway	ちかてつ
+the shinkansen	しんかんせん
+bus	バス
+taxi	タクシー
+bicycle	じでんしゃ
+on foot	あるいて
+person	ひと
+friend	ともだち
+he	かれ
+she	かのじょ
+family	かぞく
+alone	ひとりて
+last week	せんしゅう
+this week	こんしゅう
+next week	らいしゅう
+last month	せんげつ
+this month	こんげつ
+next month	らいげつ
+last year	きょねん
+this year	ことし
+next year	らいねん
+the month of the year	ーがつ
+what month	なんがつ
+which day of the month	なんにち
+when	いつ
+birthday	たんじょうび
+local train	ふつう
+rapid	きゅうこう
+express	とっきゅう
+next	つぎの
+you're welcome	どういたしまして
+-th platform	ー　ばんせん

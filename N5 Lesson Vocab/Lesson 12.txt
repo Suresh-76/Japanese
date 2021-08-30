@@ -1,0 +1,44 @@
+easy, simple	かんたん
+near	ちかい
+far	とおい
+slow, late	おそい
+many (people) ,much	おおい、ひとがおおい
+few (people), a little	すくない、ひとがすくない
+warm	あたたかい
+cool	すずしい
+sweet	あまい
+hot (taste), spicy	からい
+heavy	おもい
+light	かるい
+prefer (coffee)	いい
+season	きせつ
+spring	はる
+summer	なつ
+autumn, fall	あき
+winter	ふゆ
+weather	てんき
+rain, rainy	あめ
+snow, snowy	ゆき
+cloudy	くもり
+hotel	ホテル
+airport	くうこう
+sea, ocean	うみ
+world	せかい
+party	パーティー
+festival	まっり
+examination	しけん
+sukiyaki (beef and vegetable hot pot)	すきやき
+sashimi (sliced raw fish)	さしみ
+sushi (vinegared rice tooped with raw fish)	すし
+tempura (seafood and vegitable deep fried in batter)	てんぷら
+flower arrangement	いけばな
+maple, red leaves of autumn	もみじ
+which one (between two things)	どちら
+both	どちらも
+by far	ずっと
+for the first time	はじめて
+I'm home	ただいま
+welcome home	おかえりなさい
+that's amazing	すごいですね
+but	でも
+(Im'm) tired	つかれました

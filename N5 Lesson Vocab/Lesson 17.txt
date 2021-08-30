@@ -1,0 +1,38 @@
+memorize	おばえます
+forget	わすれます
+lose	なくします
+hand in	だします
+pay	はらいます
+give back, return	かえします
+go out	でかけます
+take off	めぎます
+take	もっていきます
+bring	もってきます
+worry	しんぱいします
+work overtime	ざんぎょうします
+go on a business trip	しゅっちょうします
+take(medicine)	のみます
+take(bath)	はいります
+important,precious	たいせつ
+all right	だいじょうぶ
+dangerous	あぶない
+question, problem, trouble	もんだい
+answer	いたえ
+no smoking	きんえん
+insurance card	けんこう　はけんしょう
+cold, flu	かぜ
+fever	ねつ
+illness, disease	びょうき
+medicine	くすり
+bath	おふり
+jacket, outerwear	うわぎ
+underwear	したぎ
+doctor	せんせい
+a few days	2，3にち
+a few~	2，3
+before~, by~	までに
+therefore, so	ですから
+what's the matter?	どう　しましたか
+have a pain	いたいです
+throat	のど
+Take care of yourself.	おだいじに

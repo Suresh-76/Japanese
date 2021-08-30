@@ -1,0 +1,29 @@
+need,require	いります
+check,investigate	しらべます
+repair,correct	なおします
+repair	しゅうりします
+phone	でんわします
+I	ぼく
+you	きみ
+Mr.	くん
+yes	うん
+no	ううん
+salaried worker	サラリーマン
+word,language	ことば
+commoditiy prices	ぶっか
+kimono	きもの
+visa	ビザ
+the beginning	はじめ
+the end	おわり
+this way,this place	こっち
+this way,that place	そっち
+this way, that place over there	あっち
+which one,where	どっち
+the other day	このあいだ
+all together	みんなで
+but	けど
+are you going back to your country	くにへ　かえるの
+what will you do	どう　するの
+what shall i do	どう　しようかな
+if you like	よかったら
+various	いろいろ

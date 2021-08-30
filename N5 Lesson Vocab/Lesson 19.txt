@@ -1,0 +1,30 @@
+climb(mountain)	のぼります
+stay(hotel)	とまります
+clean(room)	そうじします
+wash(clothes)	せんたくします
+practice	れんしゅうします
+become	なります
+sleepy	ねむい
+strong	つよい
+weak	よわい
+be in good condition	ちょうしが　いい
+be in bad condition	ちょうしが　わるい
+condition	ちょうし
+golf	ゴルフ
+sumo wrestling	すもう
+pinball	パチンコ
+tea ceremony	おちゃ
+day,date	ひ
+once	いちど
+not once,never	いちども
+gradually	だんだん
+soon	もうすぐ
+thankyou	おかげさまで
+bottoms up,cheers	かんぱい
+actually,to tell the truth	じつは
+diet	ダイエット
+many times	なんかいも
+but,however	しかし
+excessive,impossible	むり
+good for one's health	からだに　いい
+cake	ケーキ

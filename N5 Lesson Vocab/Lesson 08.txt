@@ -1,0 +1,57 @@
+handsome	ハンサム
+beautiful	きれい
+quiet	しずか
+lively	にぎやか
+famous	ゆうめい
+kind	しんせつ
+healthy	げんき
+free	ひま
+convenient	べんり
+fine,nice,wonderful	すてき
+big,large	おおきい
+small, little	ちいさい
+new	あたらしい
+old	ふるい
+good	いい
+bad	わるい
+hot	あつい
+cold (temperature)	さむい
+cold ( referring from touch)	つめたい
+difficult	むずかしい
+easy	やさしい
+expensive, tall , high	たかい
+inexpensive	やすい
+low	ひくい
+interesting	おもしろい
+delicious	おいしい
+busy	いそがしい
+enjoyable	たのしい
+white	しろい
+black	くろい
+red	あかい
+blue	あおい
+cherry	さくら
+montain	やま、山
+town	まち
+food	たべもの
+car	くるま
+place	ところ
+dormitory	りょう
+study	べんきょう
+life	せいかつ
+work, business	しごと
+how	どう
+what kind of ~	どんな～
+which one	どれ
+very	とても
+not so	あまり
+and( used to connect sentences)	そして
+~, but~	～が、～
+how are you?	おげんきですか
+well let me see	そうですね
+have you got used to the life in Japan?	日本の　せいかつに　なれましたか
+won't you have another cup of ~	～　もういっばいいかがですか。
+no, thanks	いいえ、けっこうです
+it's already ~	もう～　です
+its almost time to leave now	そろそろしつれいします
+please come again	また　うらっしゃってください

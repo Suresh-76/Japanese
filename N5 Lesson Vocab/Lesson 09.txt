@@ -1,0 +1,51 @@
+understand	わかります
+have	おります
+like	すき
+dislike	きらい
+good at	じょうず
+poor at	へた
+dish, cooking	りょうり
+drinks	のみもの
+sport	スポーツ
+baseball	やきゅう
+dance	ダンス
+music	おんがく
+song	うた
+classical music	クラシック
+jazz	ジャズ
+concert	コンサート
+karaoke	カラオケ
+kabuki	かぶき
+picture,drawing	え
+letter,character	じ
+chinese characters	かんじ
+hiragana script	ひらがな
+katakana script	かたかな
+the roman alphabet	ローマじ
+small change	こまかいおかね
+ticket	チケット
+time	じかん
+something to do, errand	ようじ
+appointment, promise	やくそく
+(someone else's) husband	ごしゅじん
+(my) husband	おっと　しゅじん
+(someone else's) wife	おくさん
+(my) wife	つま　かない
+(someone else's) child	おこさん
+(my) child	こども
+well, much	よく’
+mostly, roughly	だいたい
+many, much	たくさん
+a little, a few	すこし
+not at all	ぜんぜん
+early, quick, fast	はやく
+because ~	～から
+why	どうして
+I'm sorry (to hear that)./That's a pity	ざんねんです
+Im sorry	すみません
+hello	もしもし
+oh	ああ
+wont you join me(us) ?	いっしょにいかがですか
+~ is a bit difficult (decline invitation)	ちょっと
+so you cannot (come) ?	だめですか
+Please ask me again some other time	またこんどおねがいします

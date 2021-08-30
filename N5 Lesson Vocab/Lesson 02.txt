@@ -1,0 +1,47 @@
+this	これ
+that	それ
+that	あれ
+this~, this~ hear	この
+that~,that~ near you	その
+that~,that~ over there	あの
+book	ほん
+dictionary	じしょ
+magazine	ざっし
+newspaper	しんぶん
+notebook	ノート
+pocket notebook	てちょう
+business card	めいし
+card	カード
+telephone card	テレホンカード
+pencil	えんぴつ
+ballpoint pen	ボールペン
+mechanical pencil, propelling pencil	シャープペンシル
+key	かぎ
+watch, clock	とけい
+umbrella	かさ
+bag, briefcase	かばん
+tape	テープ
+tape recorder	テープレコーダー
+television	テレビ
+radio	ラジオ
+camera	カメラ
+computer	コンピューター
+automobile, car	じどうしゃ
+desk	つくえ
+chair	いす
+chocolate	チョコレート
+coffee	コーヒー
+the English language	えいご
+the Japanese language	にほんご
+~language	～ご
+what	なん
+so	そう
+No, it isn't./You are wrong.	ちがいます
+I see./Is that so?	そうですか
+well	あのう
+It's nothing./It's a token of my gratitude.	ほんのきもちです
+Please./Here you are.	どうぞ
+Well, thanks	どうも
+Thank you	どうもありがとうございます
+I hope for your kind assistance hereafter	これからおせわになります
+I am pleased to meet you.	こちらこそよろしく

@@ -1,0 +1,27 @@
+stand up	たちます
+sit down	すわります
+use	つかいます
+put	おきます
+make,produce	つくります
+sell	うります
+get to know	しります
+be going to live	すみます
+do research	けんきゅうします
+know	しっています
+live	すんでいます
+materials,data	しりょう
+catalog	カタログ
+timetable	じこくひょう
+clothes	ふく
+products	せいひん
+software	ソフト
+speciality,field of study	せんもん
+dentist,dentist's	はいしゃ
+barber,barber's	とこや
+ticket agency	プレイガイド
+single,unmarried	どくしん
+especially	とくに
+remember,recollect	あもいだします
+your family	ごかぞく
+be	いらっしゃいます
+senior high school	こつこつ

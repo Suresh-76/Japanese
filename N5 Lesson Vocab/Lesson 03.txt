@@ -1,0 +1,40 @@
+here, this place	ここ
+there, that place near you	そこ
+that place over there	あそこ
+where, what place	どこ
+this way, this place	こちら
+that way, that place near you	そちら
+that way, that place over there	あちら
+which eay, where	どちら
+classroom	きょうしつ
+dining hall, canteen	しょくどう
+office	じむしゃ
+conference room, assembly room	かいぎしつ
+reception desk	うけつけ
+lobby	ロビー
+room	へや
+toilet, rest room　おてあらい
+staircase	かいだん
+elevator, lift	エレベーター
+escalator	エスカレーター
+country	おくに
+company	かいしゃ
+house, home	うち
+telephone, telephone call	でんわ
+shoes	くつ
+necktie	ネクタイ
+wine	ワイン
+tobaco, cigarette	たばこ
+department, counter	うりば
+basement	ちか
+-th floor	～かい
+what floor	なんがい
+-yen	～えん
+how much	いくら
+hundred	ひゃく
+thousand	せん
+ten thousand	まん
+Excuse me.	すみません
+Please show me	みせてください
+well, then, in that case	じゃ
+Give me,please	ください

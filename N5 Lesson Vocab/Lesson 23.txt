@@ -1,0 +1,29 @@
+ask	ききます
+turn	まわします
+pull	ひきます
+change	かえます
+touch	さわります
+come out	でます
+move,work	うごきます
+walk	あるきます
+cross	わたります
+pay attention,take care	きを　つけます
+move	ひっこしします
+electrician	でんきや
+person of shop	や
+size	サイズ
+sound	おと
+machine	きかい
+knob	つまみ
+breakdown	こしょう
+road,way	みち
+crossroad	こうさてん
+trafic light	しんごう
+corner	かど
+bridge	はし
+parking lot,car park	ちゅうしゃじょう
+the -th(indicating order)	め
+New year's day	しょうがつ
+that was delicious(said after eating)	ごちそうさま　でした
+building	たてもの
+alien registration card	かいこくじんとうろくしょう

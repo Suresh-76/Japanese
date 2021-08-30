@@ -1,0 +1,828 @@
+おきます	get up
+ねます	sleep
+はたらきます	work
+やすみます	take rest
+べんきょうします	studing
+おわります	finish
+デパート	department store
+ぎんこう	bank
+ゆうびんきょく	post office
+としょかん	library
+びじゅつかん	art museum
+いま	now
+ーじ	- o' clock
+ーふん　ーぷん	- minute
+はん	half
+なんじ	what time
+なんぷん	what minute
+ごぜん	a.m. , morning
+ごご	p.m. , afternoon
+あさ	morning
+ひる	daytime, Noon
+ばん	night
+おととい	the day before yesterday
+きのう	yesterday
+きょう	today
+あした	tomorrow
+あさって	the day after tomorrow
+けさ	this morning
+こんばん	this evening
+やすみ	rest
+ひるやすみ	lunch time
+まいあさ	every morning
+まいばん	every night
+まいにち	every day
+げつようび	monday
+かようび	tuesday
+すいようび	wednesday
+もくようび	thursday
+きんようび	friday
+どようび	saturday
+にちようび	sunday
+なんようび	what day of the week
+ぼんごう	number
+なんばん	what number
+から	form ~
+まで	until ~
+と	and
+そちら	your place
+たいへんですね	that's tough
+えーと	well , let me see
+いち　れい　よん	information, directory assistance
+おねがいしまし	please
+かしこまりました	certainly
+おといあれせのばんごう	the number beig inquire about
+どうもありがとうございました	thank you very much
+いきます	go
+きます	come
+かえります	go home
+がっこう	school
+スーパー	supermaket
+えき	station
+ひこうき	airplan
+ふね	ship
+でんしゃ	electric train
+ちかてつ	subway
+しんかんせん	the shinkansen
+バス	bus
+タクシー	taxi
+じでんしゃ	bicycle
+あるいて	on foot
+ひと	person
+ともだち	friend
+かれ	he
+かのじょ	she
+かぞく	family
+ひとりて	alone
+せんしゅう	last week
+こんしゅう	this week
+らいしゅう	next week
+せんげつ	last month
+こんげつ	this month
+らいげつ	next month
+きょねん	last year
+ことし	this year
+らいねん	next year
+ーがつ	the month of the year
+なんがつ	what month
+なんにち	which day of the month
+いつ	when
+たんじょうび	birthday
+ふつう	local train
+きゅうこう	rapid
+とっきゅう	express
+つぎの	next
+どういたしまして	you're welcome
+ー　ばんせん	-th platform
+たべます	eat
+のみます	drink
+すいます	smoke
+みます	see
+ききます	hear
+よみます	read
+かきます	write
+かいます	buy
+とります	take
+します	do
+あいます	meet
+ごはん	meal
+あさごはん	breakfast
+ひるごはん	lunch
+ばんごはん	supper
+パン	bread
+たまご	egg
+にく	meat
+さかな	fish
+やさい	vegitable
+くだもの	fruit
+みず	water
+おちゃ	tea
+こうちゃ	black tea
+ぎゅうにゅう	milk
+ジュース	juice
+ビール	beer
+ビヂオ	video
+えいが	movie
+ＣＤ	CD
+てがみ	letter
+レポート	report
+しゃしん	photograph
+みせ	store
+レストラン	restaurant
+にわ	garden
+しゅくだい	homework
+テニス	tennis
+サッカー	soccer
+おはなみ	cherry-blossom
+なに	what
+いっしょに	together
+ちよっと	a little while
+いつも	always
+ときどき	sometimes
+それから	after that
+ええ	yes
+いいですね	thats good
+わかりました	i see
+なんですか	yes?
+じゃ、またあした	see you tomorrow
+きります	Cut
+おくります	Send
+あげます	Give
+もらいます	Receive
+かします	Lend
+かります	Borrow
+おしえます	Teach
+かけます	Make
+でんわをかけます	Make a telephone call
+て	Hand
+はし	Chopsticks
+スプーン	spoon
+ナイフ	knife
+ヒョクス	fork
+はさみ	Scissors
+ファクス	fax
+ワープロ	word processor
+パサゴン	personal computer
+パンチ	punch
+ホッチキス	stapler
+セロテープ	scotch tape
+けしゴム	eraser
+かみ	paper
+はな	flower
+シヤツ	shirt
+プレセント	present
+にもつ	baggage
+お金	money
+きっぷ	ticket
+クリスマス	christmas
+ちち	my father
+はは	my mother
+おとうさん	father
+おかあさん	mother
+もう	already
+まだ	not yet
+これから	from now on
+すてきですね	what a nice
+ごめんください	may i come in
+いらっしゃい	welcome
+どうぞおわがりください。	do come in
+しつらいします	may i ( I'm afraid i'll be disturbing you)
+いかがですか	won't you have
+いただきます	said before starting to eat or drinking
+りょこう	trip
+おみやげ	souvenir
+ハンサム	handsome
+きれい	beautiful
+しずか	quiet
+にぎやか	lively
+ゆうめい	famous
+しんせつ	kind
+げんき	healthy
+ひま	free
+べんり	convenient
+すてき	fine,nice,wonderful
+おおきい	big,large
+ちいさい	small, little
+あたらしい	new
+ふるい	old
+いい	good
+わるい	bad
+あつい	hot
+さむい	cold (temperature)
+つめたい	cold ( referring from touch)
+むずかしい	difficult
+やさしい	easy
+たかい	expensive, tall , high
+やすい	inexpensive
+ひくい	low
+おもしろい	interesting
+おいしい	delicious
+いそがしい	busy
+たのしい	enjoyable
+しろい	white
+くろい	black
+あかい	red
+あおい	blue
+さくら	cherry
+やま、山	montain
+まち	town
+たべもの	food
+くるま	car
+ところ	place
+りょう	dormitory
+べんきょう	study
+せいかつ	life
+しごと	work, business
+どう	how
+どんな～	what kind of ~
+どれ	which one
+とても	very
+あまり	not so
+そして	and( used to connect sentences)
+～が、～	~, but~
+おげんきですか	how are you?
+そうですね	well let me see
+日本の　せいかつに　なれましたか	have you got used to the life in Japan?
+～　もういっばいいかがですか。	won't you have another cup of ~
+いいえ、けっこうです	no, thanks
+もう～　です	it's already ~
+そろそろしつれいします	its almost time to leave now
+また　いらっしゃってください	please come again
+わかります	understand
+あります	have
+すき	like
+きらい	dislike
+じょうず	good at
+へた	poor at
+りょうり	dish, cooking
+のみもの	drinks
+スポーツ	sport
+やきゅう	baseball
+ダンス	dance
+おんがく	music
+うた	song
+クラシック	classical music
+ジャズ	jazz
+コンサート	concert
+カラオケ	karaoke
+かぶき	kabuki
+え	picture,drawing
+じ	letter,character
+かんじ	chinese characters
+ひらがな	hiragana script
+かたかな	katakana script
+ローマじ	the roman alphabet
+こまかいおかね	small change
+チケット	ticket
+じかん	time
+ようじ	something to do, errand
+やくそく	appointment, promise
+ごしゅじん	(someone else's) husband
+おっと　しゅじん	(my) husband
+おくさん	(someone else's) wife
+つま　かない	(my) wife
+おこさん	(someone else's) child
+こども	(my) child
+よく’	well, much
+だいたい	mostly, roughly
+たくさん	many, much
+すこし	a little, a few
+ぜんぜん	not at all
+はやく	early, quick, fast
+～から	because ~
+どうして	why
+ざんねんです	I'm sorry (to hear that)./That's a pity
+すみません	Im sorry
+もしもし	hello
+ああ	oh
+いっしょにいかがですか	wont you join me(us) ?
+ちょっと	~ is a bit difficult (decline invitation)
+だめですか	so you cannot (come) ?
+またこんどおねがいします	Please ask me again some other time
+います	exist (living)
+あいます	exist (non living)
+いろいろ	various
+おとこのひと	man
+おんなのひと	woman
+おとこのこ	boy
+おんなのこ	girl
+いぬ	dog
+ねこ	cat
+き	tree
+もの	thing
+フィルム	film
+でんち	battery
+はこ	box
+スイッチ	switch
+れいぞうこ	refrigerator
+テーブル	table
+ベッド	bed
+たな	shelf
+ドア	door
+まど	window
+ポスト	mailbox, postbox
+ビル	building
+こうえん	park
+きっさてん	coffee shop
+ほんや	bookstore
+～や	~ store
+のりば	a fixed place to catch taxis, train, etc..
+けん	prefecture
+うえ	on, above, over
+した	under, below, beneath
+まえ	front, before
+うしろ	back, behind
+みぎ	right side
+ひだり	left side
+なか	in, inside
+そと	outside
+となり	next, next door
+ちかく	near, vicinity
+あいだ	between, among
+～や　～　など	and so on
+いちばん	the most ~
+～　だんめ	the -th self
+チリソース	chili sauce
+おく	the back
+スパイス。コーナー	spice corner
+have (a child)	います
+and, furthermore	それから
+かんたん	easy, simple
+ちかい	near
+とおい	far
+おそい	slow, late
+おおい、ひとがおおい	many (people) ,much
+すくない、ひとがすくない	few (people), a little
+あたたかい	warm
+すずしい	cool
+あまい	sweet
+からい	hot (taste), spicy
+おもい	heavy
+かるい	light
+いい	prefer (coffee)
+きせつ	season
+はる	spring
+なつ	summer
+あき	autumn, fall
+ふゆ	winter
+てんき	weather
+あめ	rain, rainy
+ゆき	snow, snowy
+くもり	cloudy
+ホテル	hotel
+くうこう	airport
+うみ	sea, ocean
+せかい	world
+パーティー	party
+まつり	festival
+しけん	examination
+すきやき	sukiyaki (beef and vegetable hot pot)
+さしみ	sashimi (sliced raw fish)
+すし	sushi (vinegared rice tooped with raw fish)
+てんぷら	tempura (seafood and vegitable deep fried in batter)
+いけばな	flower arrangement
+もみじ	maple, red leaves of autumn
+どちら	which one (between two things)
+どちらも	both
+ずっと	by far
+はじめて	for the first time
+ただいま	I'm home
+おかえりなさい	welcome home
+すごいですね	that's amazing
+でも	but
+つかれました	(Im'm) tired
+あそびます	enjoy oneself,chilling out
+およぎます	swim
+むかえます	go to meet, welcome
+つかれます	get tired
+だします	send
+はいります	enter
+でます	go out
+けっこんします	marry
+かいものします	do shopping
+しょくじします	have a meal, dine
+さんぽします	take a walk
+たいへん	hard,tough,severe,awful
+ほしい	want
+さびしい	lonely
+ひろい	wide,spacious
+せまい	narrow,small
+しやくしょ	municipal office
+プール	swimming pool
+かわ	river
+けいざい	economy
+びじゅつ	fine arts
+つり	fishing
+スキー	skiing
+かいぎ	meeting, conference
+とうろく	registeration
+しゅうまつ	weekend
+ごろ	about(time)
+なにか	something
+どこか	somewhere,some place
+おなかが　すきました	(I'm) hungry
+おなかが　いっぱいです	(I'm) full
+のどが　かわきました	(I'm) thirsty
+そうですね	I agree with you
+そう　しましょう	let's do that
+ごちゅうもん　は　？	may i take your order?
+ていしょく	set meal
+ぎゅうどん	bowl of rice topped with beef
+「しょうしょう」　おまちください	[a moment] please wait
+べつべつ	separately
+つけます	turn on
+けします	turn off
+あけます	open
+しめます	close, shut
+いそぎます	hurry
+まちます	wait
+とめます	stop, park
+まがります	turn
+もちます	hold
+とります	take, pass
+てつだいます	help (with a task)
+よびます	call
+はなします	speak, talk
+みせます	show
+おしえます	tell
+はじめます	start, begin
+ふります	rain
+コピーします	copy
+エアコン	air conditioner
+パスポート	passport
+なまえ	name
+じゅうしょ	address
+ちず	map
+しお	salt
+さとう	sugar
+よみかた	how to read, way of rading
+～かた	how to ~
+ゆっくり	slowly,lesurely
+すぐ	immediately
+また	again
+あとで	later
+もう　すこし	a little more
+もう～	~ more
+いいですよ	sure,/certainly
+さあ	right
+あれ？	oh!
+しんこう　を　みぎ　へ　まがって　ください	turn to the right at the signal.
+まっすぐ	staright
+これで　おねがいしま	I'd like to play with this.
+おつり	change
+たちます	stand up
+すわります	sit down
+つかいます	use
+おきます	put
+つくります	make,produce
+うります	sell
+しります	get to know
+すみます	be going to live
+けんきゅうします	do research
+しっています	know
+すんでいます	live
+しりょう	materials,data
+カタログ	catalog
+じこくひょう	timetable
+ふく	clothes
+せいひん	products
+ソフト	software
+せんもん	speciality,field of study
+はいしゃ	dentist,dentist's
+とこや	barber,barber's
+プレイガイド	ticket agency
+どくしん	single,unmarried
+とくに	especially
+あもいだします	remember,recollect
+ごかぞく	your family
+いらっしゃいます	be
+こうこう	senior high school
+わたし	I
+わたしたち	we
+あなた	you
+あのひと	that person,he,she
+みなさん	ladies and gentlemen,all of you
+さん	Mr.,Ms.
+せんせい	teacher,instructor
+きょうし	teacher,instructor
+がくせん	student
+かいしゃいん	company employee
+しゃいん	employee of ~ Company
+ぎんこういん	bank employee
+いしゃ	medical doctor
+けんきゅうしゃ	reseacher,scholar
+エンジニア	engineer
+だいがく	university
+びょういん	hospital
+でんき	electricity,light
+だれ	who
+さい	-years old
+なんさい　おいくつ	how old
+はい	yes
+いいえ	no
+しつれいですが	Excuse me, but
+おなまえは？	May I have your name?
+はじめまして	How do you do?
+どうぞよろしくおねがいします	Pleased to meet you.
+こちらは～さんです	This is Mr/Ms.~
+～からきました	I came from~
+これ	this
+それ	that
+あれ	that
+この	this~, this~ hear
+その	that~,that~ near you
+あの	that~,that~ over there
+ほん	book
+じしょ	dictionary
+ざっし	magazine
+しんぶん	newspaper
+ノート	notebook
+てちょう	pocket notebook
+めいし	business card
+カード	card
+テレホンカード	telephone card
+えんぴつ	pencil
+ボールペン	ballpoint pen
+シャープペンシル	mechanical pencil, propelling pencil
+かぎ	key
+とけい	watch, clock
+かさ	umbrella
+かばん	bag, briefcase
+テープ	tape
+テープレコーダー	tape recorder
+テレビ	television
+ラジオ	radio
+カメラ	camera
+コンピューター	computer
+じどうしゃ	automobile, car
+つくえ	desk
+いす	chair
+チョコレート	chocolate
+コーヒー	coffee
+えいご	the English language
+にほんご	the Japanese language
+～ご	~language
+なん	what
+そう	so
+ちがいます	No, it isn't./You are wrong.
+そうですか	I see./Is that so?
+あのう	well
+ほんのきもちです	It's nothing./It's a token of my gratitude.
+どうぞ	Please./Here you are.
+どうも	Well, thanks
+どうもありがとうございます	Thank you
+これからおせわになります	I hope for your kind assistance hereafter
+こちらこそよろしく	I am pleased to meet you.
+ここ	here, this place
+そこ	there, that place near you
+あそこ	that place over there
+どこ	where, what place
+こちら	this way, this place
+そちら	that way, that place near you
+あちら	that way, that place over there
+どちら	which eay, where
+きょうしつ	classroom
+しょくどう	dining hall, canteen
+じむしゃ	office
+かいぎしつ	conference room, assembly room
+うけつけ	reception desk
+ロビー	lobby
+へや	room
+かいだん	staircase
+エレベーター	elevator, lift
+エスカレーター	escalator
+おくに	country
+かいしゃ	company
+うち	house, home
+でんわ	telephone, telephone call
+くつ	shoes
+ネクタイ	necktie
+ワイン	wine
+たばこ	tobaco, cigarette
+うりば	department, counter
+ちか	basement
+～かい	-th floor
+なんがい	what floor
+～えん	-yen
+いくら	how much
+ひゃく	hundred
+せん	thousand
+まん	ten thousand
+すみません	Excuse me.
+みせてください	Please show me
+じゃ	well, then, in that case
+ください	Give me,please
+います	have (a child)
+います	stay be (in japan)
+かかります	take (referring to time or money)
+やすみます	take a day off (work)
+りんご	apple
+みかん	mandarin orange
+サンドイッチ	sandwitch
+カレーライス	curry (and rice)
+アイスクリーム	ice cream
+きって	postage stamp
+はがき	post card
+ふうとう	envelope
+そくたつ	special delivery
+かきとめ	registered mail
+エアメール	airmail
+ふなびん	sea mail
+りょうしん	parents
+きょうだい	brothers and sisters
+あに	my - elder brother
+おにいさん	someone else's elder brother
+あね	my - elder sister
+おねえさん	someone else's - elder sister
+おとうと	my younger brother
+おとうとさん	someone else's younger brother
+いもうと	my younger sister
+いもうとさん	someone else's younger sister
+がいこく	foreign country
+じかん	- hours
+しゅうかん	- weeks
+かげつ	- months
+ねん	- years
+～ぐらい	about ~
+どのくらい	how long
+ぜんぶで	in total
+みんな	all, everything
+だけ	only~
+いらっしゃいませ	welcome./May i help you
+いい　おてんきですね	nice weather, isn't it?
+おてかけですか	are you going out？
+ちょっと～まで	I'm just going to~
+いっていらっしゃい	so long
+いってまいります	so long (I'm　going and coming back)
+それから	and, furthermore
+のります	ride, get on
+おります	get off
+のりかえます	change
+おびます	take
+いれます	put in, insert
+だします	take out, withdraw
+はいります	enter
+でます	graduate from
+やめます	quit or retire from,stop,give up
+おします	push,press
+わかい	young
+ながい	long
+みじかい	short
+あかるい	bright,light
+くらい	dark
+せが　たかい	tall　(person)
+あたまが　いい	clever, smart
+からだ	body
+あたま	head
+かみ	hair
+かお	face
+め	eye
+みみ	ear
+くち	mouth
+は	tooth
+おなか	stomach
+あし	leg,foot
+サービス	service
+ジョギング	jogging
+シャワー	shower
+みどり	green, greenary
+おてら	Buddhist temple
+じんじゃ	Shinto shrine
+りゅうがくせい	foreign student
+ーばん	number-
+どうやって	in what way, how
+どの	which~
+いいえ　まだまだです	I still have a long way to go.
+おひきだしですか	Are you making a withdrawal?
+まず	first of all
+キャッシュカード	cash dispensing card
+あんしょうばんごう	personal identification number, PIN
+つぎに	next, as a next step
+きんがく	amount of money
+かくにん	confirmation
+ボタン	button
+おばえます	memorize
+わすれます	forget
+なくします	lose
+だします	hand in
+はらいます	pay
+かえします	give back, return
+でかけます	go out
+ねぎます	take off
+もっていきます	take
+もってきます	bring
+しんぱいします	worry
+ざんぎょうします	work overtime
+しゅっちょうします	go on a business trip
+のみます	take(medicine)
+はいります	take(bath)
+たいせつ	important,precious
+だいじょうぶ	all right
+あぶない	dangerous
+もんだい	question, problem, trouble
+いたえ	answer
+きんえん	no smoking
+けんこう　はけんしょう	insurance card
+かぜ	cold, flu
+ねつ	fever
+びょうき	illness, disease
+くすり	medicine
+おふり	bath
+うわぎ	jacket, outerwear
+したぎ	underwear
+せんせい	doctor
+2，3にち	a few days
+2，3	a few~
+までに	before~, by~
+ですから	therefore, so
+どう　しましたか	what's the matter?
+いたいです	have a pain
+のど	throat
+おだいじに	Take care of yourself.
+できます	be able to, can
+あらいます	wash
+ひきます	play
+うたいます	sing
+あつめます	collect, gather
+すてます	throw away
+かえます	exchange, change
+うんてんします	drive
+よやくします	reserve, book
+けんがくします	visit some place for study
+ピアノ	piano
+ーメートル	-meter
+こくさい	international~
+げんきん	cash
+しゅみ	hobby
+にっき	diary
+おいのり	prayer
+かちょう	section chief
+ぶちょう	department chief
+しゃちょう	president of a company
+どうぶつ	animal
+うま	horse
+へえ	Really!
+それは　おもしろいですね	That must be interesting
+なかなか	not easily
+ぼくじょう	ranch, stock farm
+ほんとうですか	Really?
+ぜひ	by all means
+のぼります	climb(mountain)
+とまります	stay(hotel)
+そうじします	clean(room)
+せんたくします	wash(clothes)
+れんしゅうします	practice
+なります	become
+ねむい	sleepy
+つよい	strong
+よわい	weak
+ちょうしが　いい	be in good condition
+ちょうしが　わるい	be in bad condition
+ちょうし	condition
+ゴルフ	golf
+すもう	sumo wrestling
+パチンコ	pinball
+おちゃ	tea ceremony
+ひ	day,date
+いちど	once
+いちども	not once,never
+だんだん	gradually
+もうすぐ	soon
+おかげさまで	thankyou
+かんぱい	bottoms up,cheers
+じつは	actually,to tell the truth
+ダイエット	diet
+なんかいも	many times
+しかし	but,however
+むり	excessive,impossible
+からだに　いい	good for one's health
+ケーキ	cake
+いります	need,require
+しらべます	check,investigate
+なおします	repair,correct
+しゅうりします	repair
+でんわします	phone
+ぼく	I
+きみ	you
+くん	Mr.
+うん	yes
+ううん	no
+サラリーマン	salaried worker
+ことば	word,language
+ぶっか	commoditiy prices
+きもの	kimono
+ビザ	visa
+はじめ	the beginning
+おわり	the end
+こっち	this way,this place
+そっち	this way,that place
+あっち	this way, that place over there
+どっち	which one,where
+このあいだ	the other day
+みんなで	all together
+けど	but
+くにへ　かえるの	are you going back to your country
+どう　するの	what will you do
+どう　しようかな	what shall i do
+よかったら	if you like
+いろいろ	various

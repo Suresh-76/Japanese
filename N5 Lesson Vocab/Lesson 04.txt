@@ -1,0 +1,55 @@
+get up	おきます
+sleep	ねます
+work	はたらきます
+take rest	やすみます
+studing	べんきょうします
+finish	おわります
+department store	デパート
+bank	げんこう
+post office	ゆうびんきょく
+library	としょかん
+art museum	びじゅつかん
+now	いま
+- o' clock	ーじ
+- minute	ーふん　ーぷん
+half	はん
+what time	なんじ
+what minute	なんぷん
+a.m. , morning	ごぜん
+p.m. , afternoon	ごご
+morning	あさ
+daytime, Noon	ひる
+night	ばん
+the day before yesterday	おととい
+yesterday	きのう
+today	きょう
+tomorrow	あした
+the day after tomorrow	あさって
+this morning	けさ
+this evening	こんばん
+rest	やすみ
+lunch time	ひるやすみ
+every morning	まいあさ
+every night	まいばん
+every day	まいにち
+monday	げつようび
+tuesday	かようび
+wednesday	すいようび
+thursday	もくようび
+friday	きんようび
+saturday	どようび
+sunday	にちようび
+what day of the week	なんようび
+number	ぼんごう
+what number	なんばん
+form ~	から
+until ~	まで
+and	と
+your place	そちら
+that's tough	たいへんですね
+well , let me see	えーと
+information, directory assistance	いち　れい　よん
+please	おねがいしまし
+certainly	かしこまりました
+the number beig inquire about	おといあれせのばんごう
+thank you very much	どうもありがとうございました

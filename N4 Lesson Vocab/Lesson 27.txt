@@ -1,0 +1,46 @@
+かいます	keep(pet)
+たてます	build
+はしります	run(along a road)
+とります	take(holiday)
+みえます	can be see(a mountain)
+きこえます	can be heard(sound)
+できます	be mad(airport)
+ひらきます	set up(a class)
+ペット	pet
+とり	bird
+こえ	voice
+なみ	wave
+はなび	fireworks
+けしき	scenery
+ひるま	daytime
+むかし	old times
+どうぐ	tool,instrument
+じどうはんばいき	vendinf machine
+つうしんはんばい	mail order
+クリーニング	dry cleaning
+マンション	mansion
+だいどころ	kitchen
+～きょうしつ	class
+パーテイールーム	party room
+～ご	after~
+～しか	only~
+ほかの	other
+はっきり	clearly
+ほとんど	almost all
+にちようだいく	sunday carpentry
+ほんだな	bookshelf
+ゆめ	dream
+いつか	someday
+いえ	house
+すばらしい	marvelous
+こどもたち	children
+だいすき	like very much
+まんが	cartoon
+しゅじんこう	hero,heroine
+ふしぎ	fantastic
+たとえば	for example
+つけます	attach
+じゆうに	freely
+そら	sky
+とびます	fly
+じぶん	oneself

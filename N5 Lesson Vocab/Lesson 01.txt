@@ -1,0 +1,29 @@
+I	わたし
+we	わたしたち
+you	あなた
+that person,he,she	あのひと
+ladies and gentlemen,all of you	みなさｎ
+Mr.,Ms.	さん
+teacher,instructor	せんせい
+teacher,instructor	きょうし
+student	がくせん
+company employee	かいしゃいん
+employee of ~ Company	しゃいん
+bank employee	ぎんこういん
+medical doctor	いしゃ
+reseacher,scholar	けんきゅうしゃ
+engineer	エンジニア
+university	だいがく
+hospital	びょういん
+electricity,light	でんき
+who	だれ
+-years old	さい
+how old	なんさい　おいくつ
+yes	はい
+no	いいえ
+Excuse me, but	しつれいですが
+May I have your name?	おなまえは？
+How do you do?	はじめまして
+Pleased to meet you.	どうぞよろしくおねがいします
+This is Mr/Ms.~	こちらは～さんです
+I came from~	～からきました

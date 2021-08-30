@@ -1,0 +1,115 @@
+Montain	やま
+Mt.Fuji	ふじさん
+river	かわ
+Mr./Ms. Yamakawa	やまかわさん
+rice field	たんぼ
+Mr./Ms. Yamada	やまださん
+day /sun	ひ
+Sunday	にちようび
+Japan	にほん
+The moon	つき
+Monday	げつようび
+Fire	ひ
+Tuesday	かようび
+Volcano	かざん
+Water	みず
+Wednesday	すいようび
+Rice field / Water field	すいでん
+tree	き
+Thursday	もくようび
+money	おかね
+gold	きん
+friday	きんようび
+soil, earth	つち
+saturday	どようび
+one thing	ひとつ
+january	いちがつ
+1st day	ついたち
+two things	ふたつ
+february	にがつ
+2nd day of the month	ふつか
+three things	みっつ
+march	さんがつ
+3rd day of the month	みっか
+four	よん
+four things	よっつ
+april	しがつ
+4th day of the month	よっか
+five things	いつーつ
+may	ごがつ
+5th day of the month	いつか
+six	ろく
+june	ろくがつ
+6th day of the month	むいか
+seven	なな
+seven things	ななつ
+july	しちがつ
+7th day of the month	なのか
+eight	はち
+august	はちがつ
+8th day of the month	ようか
+nine things	ここのつ
+september	くがつ
+9th day of the month	ここのか
+ten	じゅう
+october	じゅうがつ
+10th day of the month	とおか
+100	ひゃく
+300	さんびゃく
+600	ろっぴゃく
+1000	せん
+2000	にせん
+3000	さんぜん
+10000	まん
+yen, circle	えん
+40000 yen	よんまんえん
+year, age	とし
+the year 2000	にせんねん
+above,on	うえ
+to go up	あがる
+water skiing	すいじょうスキー
+under	した
+to go down	さがる
+up and down	じょうげ
+inside	なか
+all day (long)	いちにちじゅう
+half a year	はんとし
+half	はんぶん
+to divide	わける
+to understand	わかる
+enough	じゅうぶん
+person	ひと
+one person	ひとり
+three person	さんにん
+japanese	にほんじん
+child	こども
+female	じょし
+woman	おんなのひと
+girl	おんなのこ
+boy	おとこのこ
+man and woman	だんじょ
+eye	め
+1st day of the month	ついたち
+mouth	くち
+10minutes	じゅうぷん
+Father	ちち
+father (some else)	おとうさん
+mother	はは
+mother (someone else)	おかあさん
+future,ahead	さき
+last month	せんげつ
+to be born	うまれる
+teacher	せんせい
+student	がくせい
+university	だいがく
+school	がっこう
+friends	ともだち
+book	ほん
+japan	にほん
+every day	まいにち
+every month	まいつき
+every year	まいとし　まいねん
+what	なに
+what month	なんがつ
+how many people	なんにん
+what time	なんじ

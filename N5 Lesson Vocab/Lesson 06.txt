@@ -1,0 +1,51 @@
+eat	たべます
+drink	のみます
+smoke	すいます
+see	みます
+hear	ききます
+read	よみます
+write	かきます
+buy	かいます
+take	とります
+do	します
+meet	あいます
+meal	ごはん
+breakfast	あさごはん
+lunch	ひるごはん
+supper	ばんごはん
+bread	パン
+egg	たまご
+meat	にく
+fish	さかな
+vegitable	やさい
+fruit	くだもの
+water	みず
+tea	おちゃ
+black tea	こうちゃ
+milk	ぎゅうにゅう
+juice	ジュース
+beer	ビール
+video	ビヂオ
+movie	えいが
+CD	ＣＤ
+letter	てがみ
+report	レポート
+photograph	しゃしん
+store	みせ
+restaurant	レストラン
+garden	にわ
+homework	しゅくだい
+tennis	テニス
+soccer	サッカー
+cherry-blossom	おはなみ
+what	なに
+together	いっしょに
+a little while	ちよっと
+always	いつも
+sometimes	ときどき
+after that	それから
+yes	ええ
+thats good	いいですね
+i see	わかりました
+yes?	なんですか
+see you tomorrow	じゃ、またあした
